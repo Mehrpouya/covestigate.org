@@ -5,3 +5,5 @@
 - two hours daily work on development of the tool.
 - Skype Duncan in a month to show progress.
 - Plan first release date.  
+- make a 5 1 minute videos explaining how to - navigate and use the tool.
+- anonymous authentication: How about: their firstname+city+memorabledate+yourfavoriteNumber
